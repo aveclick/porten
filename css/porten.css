@@ -1037,6 +1037,10 @@ html, body{
   .collection_1 {
       display: none;
   }
+  .new_goods h1 {
+    padding-top: 60px;
+  }
+}
 
 @media(max-width: 710px) {
   .brands img{

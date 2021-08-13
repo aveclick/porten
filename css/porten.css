@@ -1115,7 +1115,7 @@ html, body{
   }
 }
 
-@media(max-width: 300px) {
+@media(max-width: 310px) {
   .header_top-left li:nth-child(1)::before {
     margin-left: 70px;
   }

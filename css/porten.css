@@ -403,6 +403,10 @@ html, body{
   background-color: black;
 }
 
+.collection_2 button:hover{
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
 .collection_2 button h2{
   font-family: PT Sans;
   font-size: 18px;
@@ -421,6 +425,10 @@ html, body{
   padding: 15px 26px;
   border: 1px solid #FFFFFF;
   background-color: transparent;
+}
+
+.goods__column_2 button:hover{
+  background-color: rgba(255, 255, 255, 0.4);
 }
 
 .goods__column_2 button h3{
@@ -668,6 +676,10 @@ html, body{
 .footer_middle button{
   background-color: #0F0F0F;
   padding: 10px 20px;
+}
+
+.footer_middle button:hover{
+  background-color: rgba(255, 255, 255, 0.2)
 }
 
 .footer_middle button h5{
